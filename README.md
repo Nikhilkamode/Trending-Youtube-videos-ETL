@@ -12,6 +12,6 @@ We have performed ETL in three steps:
 3) https://www.kaggle.com/datasnaek/youtube-new#US_category_id.json
 The .csv and .json files are then read into a Pandas data frame in Jupyter notebook.
 
-# Transformation: Python has been used as the tool for transformation of datasets using the Pandas Library.
+ Transformation: Python has been used as the tool for transformation of datasets using the Pandas Library.
 
-# Loading: Relational database PostgresSQL has been used to load the data.
+ Loading: Relational database PostgresSQL has been used to load the data.
